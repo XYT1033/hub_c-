@@ -1,0 +1,23 @@
+-- 【OpenCV入门教程之一】 安装OpenCV：OpenCV 3.0、OpenCV 2.4.8、OpenCV 2.4.9 +VS 开发环境配置  https://blog.csdn.net/poem_qianmo/article/details/19809337
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   
+   
+    
